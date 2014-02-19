@@ -1,0 +1,68 @@
+body {
+    background: #10120E;
+    margin: 0;
+    min-width: 440px;
+    min-height: 440px;
+    cursor:url('cursor.png')
+}
+
+#footer{
+    height: 70px;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    background: white;
+}
+
+#bottom-left{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 170px;
+    height: 170px;
+    background: green;
+}
+
+#bottom-right{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 200px;
+    height: 100px;
+    background: green;
+}
+
+.interface {
+    display: inline-block;
+    height: 75px;
+    width: 75px;
+    margin: 5px;
+    background: url("interface.png")
+}
+
+.interface:hover {
+    cursor: pointer;
+}
+
+#delete{
+    float: left;
+    position: relative;
+}
+
+#build{
+    float: right;
+    position: relative;
+    background-position:-75px;
+}
+
+#dig{
+    float: left;
+    position: relative;
+    background-position:-150px;
+}
+
+#drag{
+    float: left;
+    position: relative;
+    background-position: -225px;
+}
