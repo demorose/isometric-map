@@ -25,15 +25,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="171.28935"
-     inkscape:cy="761.1696"
+     inkscape:cx="321.28935"
+     inkscape:cy="869.02674"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1600"
-     inkscape:window-height="845"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-width="1535"
+     inkscape:window-height="876"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -43,7 +43,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -54,7 +54,7 @@
     <g
        id="g3815"
        transform="matrix(0.99030887,0,0,0.99410669,2.038343,0.71161852)"
-       inkscape:export-filename="/home/demorose/Developpement/html/test-canvas/building.png"
+       inkscape:export-filename="/home/demorose/developpement/javascript/test-canvas/building.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <rect
@@ -299,12 +299,12 @@
        height="150"
        x="64.545166"
        y="45.308899"
-       inkscape:export-filename="/home/demorose/Developpement/html/test-canvas/building.png"
+       inkscape:export-filename="/home/demorose/developpement/javascript/test-canvas/building.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <g
        id="g3886"
-       inkscape:export-filename="/home/demorose/Developpement/html/test-canvas/building.png"
+       inkscape:export-filename="/home/demorose/developpement/javascript/test-canvas/building.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <rect
@@ -359,7 +359,7 @@
     <g
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/demorose/Developpement/html/test-canvas/building.png"
+       inkscape:export-filename="/home/demorose/developpement/javascript/test-canvas/building.png"
        transform="matrix(0.99030887,0,0,0.99410669,2.038343,150.71162)"
        id="g3021"
        style="opacity:0.62">
@@ -601,7 +601,7 @@
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/demorose/Developpement/html/test-canvas/building.png"
+       inkscape:export-filename="/home/demorose/developpement/javascript/test-canvas/building.png"
        y="195.3089"
        x="64.545166"
        height="150"
@@ -611,7 +611,7 @@
     <g
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/demorose/Developpement/html/test-canvas/building.png"
+       inkscape:export-filename="/home/demorose/developpement/javascript/test-canvas/building.png"
        id="g3085"
        transform="translate(0,150)"
        style="opacity:0.62">
